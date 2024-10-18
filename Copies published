@@ -1,0 +1,11 @@
+//calculate the number of copies published
+   #include<stdio.h> 
+   int main()
+{
+    int a=50525; 
+    int b=40399;
+    int sum=a+b;
+// Addition of two 
+   printf("%d is the total number of copies",a+b); 
+ return 0;
+}
