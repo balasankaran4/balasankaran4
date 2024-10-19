@@ -1,0 +1,11 @@
+// calculate how much he spent on those two days.
+#include<stdio.h>
+int main()
+{ 
+  int x,y;
+    printf("Wednesday spent:\n thursday spent :");
+    scanf("%d \n%d",&x,&y); 
+  int sum=x+y; 
+    printf ("\nTotal %d ",sum); 
+  return 0;
+}
