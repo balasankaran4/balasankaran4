@@ -1,0 +1,13 @@
+//calculate total number of seats
+#include <stdio.h>
+  int main() 
+{ 
+  int x; 
+  int z=108; 
+    printf("enter the number of rows: ");
+    scanf("%d",&x); int y=z/x;
+ {
+    printf("\n Total number of seats:%d",y);
+ }
+    return 0; 
+}
